@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: A Small LLM (CraftGPT)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: sammyuri
+    affiliation: Original project owner
+  - orcid: 'https://orcid.org/0009-0009-8814-7456'
+    given-names: Power Trip
+    email: gorzan0123@gmail.com
+repository-code: 'https://github.com/InsanePowerTrip/small-llm/'
+repository: 'https://github.com/sammyuri/craftgpt/'
+abstract: A small L.L.M created in Python with no A.I. libraries.
+keywords:
+  - python
+  - llm
+  - ai
+commit: Upload files
+version: '1'
+date-released: '2025-09-28'
